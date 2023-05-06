@@ -1,6 +1,6 @@
-# Opereating System study
+# Opereating System
 
-## This repo is used for studying OS.
+This repo is used for learning OS.
 
-## Language: C
+> Language: C
 
