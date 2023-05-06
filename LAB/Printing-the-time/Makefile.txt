@@ -1,0 +1,3 @@
+CFLAGS += -Wall -g
+show-time:      show-time.o
+        $(CC) -o $@ $^
